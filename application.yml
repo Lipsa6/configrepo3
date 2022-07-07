@@ -1,4 +1,4 @@
 my:
  greeting: Welcome
-list:
+ list:
   values: apple,banana,mango
